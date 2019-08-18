@@ -2,8 +2,14 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-image: url(../images/cc.jpg);
+}
+
 .paragraph {
-    background-image: url(../images/mm.jpg);
-    background-repeat: no-repeat;
+    background-color: darkolivegreen;
     background-size: 100%;
+    height: 150%;
+    width: auto;
+    text-align: center;
 }
