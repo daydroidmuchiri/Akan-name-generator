@@ -4,6 +4,7 @@ h1 {
 
 body {
     background-image: url(../images/cc.jpg);
+    font-family: 'Rajdhani', sans-serif;
 }
 
 .paragraph {
@@ -12,4 +13,5 @@ body {
     height: 150%;
     width: auto;
     text-align: center;
+    font-size: 150%;
 }
