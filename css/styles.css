@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+.paragraph {
+    background-image: url(../images/mm.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
