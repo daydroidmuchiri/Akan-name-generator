@@ -15,3 +15,7 @@ body {
     text-align: center;
     font-size: 150%;
 }
+
+button {
+    color: #000;
+}
